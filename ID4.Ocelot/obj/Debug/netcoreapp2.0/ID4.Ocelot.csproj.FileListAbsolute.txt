@@ -1,0 +1,12 @@
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\bin\Debug\netcoreapp2.0\configuration.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\bin\Debug\netcoreapp2.0\ID4.Ocelot.deps.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\bin\Debug\netcoreapp2.0\ID4.Ocelot.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\bin\Debug\netcoreapp2.0\ID4.Ocelot.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\bin\Debug\netcoreapp2.0\ID4.Ocelot.dll
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\bin\Debug\netcoreapp2.0\ID4.Ocelot.pdb
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\obj\Debug\netcoreapp2.0\ID4.Ocelot.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\obj\Debug\netcoreapp2.0\ID4.Ocelot.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\obj\Debug\netcoreapp2.0\ID4.Ocelot.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\obj\Debug\netcoreapp2.0\ID4.Ocelot.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\obj\Debug\netcoreapp2.0\ID4.Ocelot.dll
+E:\TestProject\MicroService\MicroServiceTest\ID4.Ocelot\obj\Debug\netcoreapp2.0\ID4.Ocelot.pdb

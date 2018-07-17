@@ -1,0 +1,12 @@
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\bin\Debug\netcoreapp2.0\appsettings.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\bin\Debug\netcoreapp2.0\Web.Order.deps.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\bin\Debug\netcoreapp2.0\Web.Order.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\bin\Debug\netcoreapp2.0\Web.Order.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\bin\Debug\netcoreapp2.0\Web.Order.dll
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\bin\Debug\netcoreapp2.0\Web.Order.pdb
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\obj\Debug\netcoreapp2.0\Web.Order.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\obj\Debug\netcoreapp2.0\Web.Order.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\obj\Debug\netcoreapp2.0\Web.Order.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\obj\Debug\netcoreapp2.0\Web.Order.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\obj\Debug\netcoreapp2.0\Web.Order.dll
+E:\TestProject\MicroService\MicroServiceTest\Web.Order\obj\Debug\netcoreapp2.0\Web.Order.pdb

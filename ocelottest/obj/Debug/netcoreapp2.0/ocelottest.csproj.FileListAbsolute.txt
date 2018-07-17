@@ -1,0 +1,12 @@
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\bin\Debug\netcoreapp2.0\configuration.json
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\bin\Debug\netcoreapp2.0\ocelottest.deps.json
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\bin\Debug\netcoreapp2.0\ocelottest.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\bin\Debug\netcoreapp2.0\ocelottest.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\bin\Debug\netcoreapp2.0\ocelottest.dll
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\bin\Debug\netcoreapp2.0\ocelottest.pdb
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\obj\Debug\netcoreapp2.0\ocelottest.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\obj\Debug\netcoreapp2.0\ocelottest.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\obj\Debug\netcoreapp2.0\ocelottest.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\obj\Debug\netcoreapp2.0\ocelottest.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\obj\Debug\netcoreapp2.0\ocelottest.dll
+E:\TestProject\MicroService\MicroServiceTest\ocelottest\obj\Debug\netcoreapp2.0\ocelottest.pdb

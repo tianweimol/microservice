@@ -1,0 +1,11 @@
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\obj\Debug\netcoreapp2.0\Thrift.Contract.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\obj\Debug\netcoreapp2.0\Thrift.Contract.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\obj\Debug\netcoreapp2.0\Thrift.Contract.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\bin\Debug\netcoreapp2.0\Thrift.Contract.deps.json
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\bin\Debug\netcoreapp2.0\Thrift.Contract.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\bin\Debug\netcoreapp2.0\Thrift.Contract.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\bin\Debug\netcoreapp2.0\Thrift.Contract.dll
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\bin\Debug\netcoreapp2.0\Thrift.Contract.pdb
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\obj\Debug\netcoreapp2.0\Thrift.Contract.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\obj\Debug\netcoreapp2.0\Thrift.Contract.dll
+E:\TestProject\MicroService\MicroServiceTest\Thrift.Contract\obj\Debug\netcoreapp2.0\Thrift.Contract.pdb

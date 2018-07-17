@@ -1,0 +1,11 @@
+E:\TestProject\MicroService\MicroServiceTest\Consumer\bin\Debug\netcoreapp2.0\Consumer.deps.json
+E:\TestProject\MicroService\MicroServiceTest\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\Consumer\bin\Debug\netcoreapp2.0\Consumer.dll
+E:\TestProject\MicroService\MicroServiceTest\Consumer\bin\Debug\netcoreapp2.0\Consumer.pdb
+E:\TestProject\MicroService\MicroServiceTest\Consumer\obj\Debug\netcoreapp2.0\Consumer.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\Consumer\obj\Debug\netcoreapp2.0\Consumer.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\Consumer\obj\Debug\netcoreapp2.0\Consumer.dll
+E:\TestProject\MicroService\MicroServiceTest\Consumer\obj\Debug\netcoreapp2.0\Consumer.pdb

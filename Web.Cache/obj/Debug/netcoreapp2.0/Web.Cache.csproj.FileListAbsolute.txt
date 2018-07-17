@@ -1,0 +1,12 @@
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\bin\Debug\netcoreapp2.0\appsettings.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\bin\Debug\netcoreapp2.0\Web.Cache.deps.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\bin\Debug\netcoreapp2.0\Web.Cache.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\bin\Debug\netcoreapp2.0\Web.Cache.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\bin\Debug\netcoreapp2.0\Web.Cache.dll
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\bin\Debug\netcoreapp2.0\Web.Cache.pdb
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\obj\Debug\netcoreapp2.0\Web.Cache.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\obj\Debug\netcoreapp2.0\Web.Cache.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\obj\Debug\netcoreapp2.0\Web.Cache.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\obj\Debug\netcoreapp2.0\Web.Cache.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\obj\Debug\netcoreapp2.0\Web.Cache.dll
+E:\TestProject\MicroService\MicroServiceTest\Web.Cache\obj\Debug\netcoreapp2.0\Web.Cache.pdb

@@ -1,0 +1,11 @@
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\bin\Debug\netcoreapp2.0\ID4.IdServer.deps.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\bin\Debug\netcoreapp2.0\ID4.IdServer.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\bin\Debug\netcoreapp2.0\ID4.IdServer.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\bin\Debug\netcoreapp2.0\ID4.IdServer.dll
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\bin\Debug\netcoreapp2.0\ID4.IdServer.pdb
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\obj\Debug\netcoreapp2.0\ID4.IdServer.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\obj\Debug\netcoreapp2.0\ID4.IdServer.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\obj\Debug\netcoreapp2.0\ID4.IdServer.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\obj\Debug\netcoreapp2.0\ID4.IdServer.dll
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\obj\Debug\netcoreapp2.0\ID4.IdServer.pdb
+E:\TestProject\MicroService\MicroServiceTest\ID4.IdServer\obj\Debug\netcoreapp2.0\ID4.IdServer.csprojAssemblyReference.cache

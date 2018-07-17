@@ -1,0 +1,11 @@
+E:\TestProject\MicroService\MicroServiceTest\aopTest\bin\Debug\netcoreapp2.0\aopTest.deps.json
+E:\TestProject\MicroService\MicroServiceTest\aopTest\bin\Debug\netcoreapp2.0\aopTest.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\aopTest\bin\Debug\netcoreapp2.0\aopTest.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\aopTest\bin\Debug\netcoreapp2.0\aopTest.dll
+E:\TestProject\MicroService\MicroServiceTest\aopTest\bin\Debug\netcoreapp2.0\aopTest.pdb
+E:\TestProject\MicroService\MicroServiceTest\aopTest\obj\Debug\netcoreapp2.0\aopTest.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\aopTest\obj\Debug\netcoreapp2.0\aopTest.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\aopTest\obj\Debug\netcoreapp2.0\aopTest.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\aopTest\obj\Debug\netcoreapp2.0\aopTest.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\aopTest\obj\Debug\netcoreapp2.0\aopTest.dll
+E:\TestProject\MicroService\MicroServiceTest\aopTest\obj\Debug\netcoreapp2.0\aopTest.pdb

@@ -1,0 +1,38 @@
+﻿{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      /*"DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 9102
+        }
+      ],*/
+      "ServiceName": "订单服务名",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin" //
+      },
+      "UseServiceDiscovery": true,
+      "UpstreamPathTemplate": "/Order/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      /*"DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 9700
+        }
+      ],*/
+      "ServiceName": "缓存服务",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin" //
+      },
+      "UseServiceDiscovery": true,
+      "UpstreamPathTemplate": "/Cache/{url}",
+      "UpstreamHttpMethod": [ "Get", "Post" ]
+    }
+  ]
+}

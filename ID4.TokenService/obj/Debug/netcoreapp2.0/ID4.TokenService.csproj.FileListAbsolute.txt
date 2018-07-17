@@ -1,0 +1,12 @@
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\bin\Debug\netcoreapp2.0\appsettings.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\bin\Debug\netcoreapp2.0\ID4.TokenService.deps.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\bin\Debug\netcoreapp2.0\ID4.TokenService.runtimeconfig.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\bin\Debug\netcoreapp2.0\ID4.TokenService.runtimeconfig.dev.json
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\bin\Debug\netcoreapp2.0\ID4.TokenService.dll
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\bin\Debug\netcoreapp2.0\ID4.TokenService.pdb
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\obj\Debug\netcoreapp2.0\ID4.TokenService.csprojAssemblyReference.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\obj\Debug\netcoreapp2.0\ID4.TokenService.csproj.CoreCompileInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\obj\Debug\netcoreapp2.0\ID4.TokenService.AssemblyInfoInputs.cache
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\obj\Debug\netcoreapp2.0\ID4.TokenService.AssemblyInfo.cs
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\obj\Debug\netcoreapp2.0\ID4.TokenService.dll
+E:\TestProject\MicroService\MicroServiceTest\ID4.TokenService\obj\Debug\netcoreapp2.0\ID4.TokenService.pdb
